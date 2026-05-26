@@ -13,7 +13,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#-overview)
 - [Modules](#-modules)
@@ -27,7 +27,7 @@
 
 ---
 
-## 🏥 Overview
+##  Overview
 
 **MacFast CMS** is a comprehensive Clinic Management System designed to streamline day-to-day operations across all departments of a medical clinic. Built with role-based access control, it serves five distinct user roles — each with dedicated workflows and a tailored set of API endpoints.
 
@@ -41,11 +41,11 @@
 
 ---
 
-## 🧩 Modules
+##  Modules
 
 ---
 
-### 🔐 Administrator Module
+###  Administrator Module
 
 The control center of MacFast CMS. Admins manage staff, doctors, roles, and system-wide configurations.
 
@@ -85,7 +85,7 @@ The control center of MacFast CMS. Admins manage staff, doctors, roles, and syst
 
 ---
 
-### 🗂️ Receptionist Module
+###  Receptionist Module
 
 The front desk of the clinic. Receptionists handle patient registration, appointment scheduling, and billing.
 
@@ -114,7 +114,7 @@ The front desk of the clinic. Receptionists handle patient registration, appoint
 
 ---
 
-### 🩺 Doctor Module
+###  Doctor Module
 
 Doctors record diagnoses, write prescriptions, and order lab tests — all linked to appointment IDs.
 
@@ -139,7 +139,7 @@ Doctors record diagnoses, write prescriptions, and order lab tests — all linke
 
 ---
 
-### 💊 Pharmacist Module
+###  Pharmacist Module
 
 Pharmacists manage the medicine catalog, track inventory, and dispense medications against active prescriptions.
 
@@ -160,7 +160,7 @@ Pharmacists manage the medicine catalog, track inventory, and dispense medicatio
 
 ---
 
-### 🔬 Lab Technician Module
+###  Lab Technician Module
 
 Lab technicians process test orders, record results, and make reports available for doctors.
 
@@ -181,7 +181,7 @@ Lab technicians process test orders, record results, and make reports available 
 
 ---
 
-## 📡 API Reference
+##  API Reference
 
 <details>
 <summary><strong>Authentication</strong></summary>
